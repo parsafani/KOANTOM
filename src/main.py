@@ -1,0 +1,1 @@
+print("KOANTOM v0.1")
